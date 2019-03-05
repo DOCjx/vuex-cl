@@ -1,7 +1,7 @@
 <template>
-  <div id="main">
-    <app />
-  </div>
+    <div id="main">
+        <app />
+    </div>
 </template>
 <script>
 import app from './pages/app/';

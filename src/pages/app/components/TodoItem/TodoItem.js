@@ -1,4 +1,4 @@
-import {connect} from '../../../../connect/';
+import {connect} from 'store';
 import module from './module';
 
 export default connect({
